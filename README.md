@@ -6,21 +6,22 @@ Different types of machine learning algorithms and solutions are capable of solv
 
 ## Slides and Report 
 
-- [Slides](https://github.com/jsalbert/music-genre-classification/blob/master/Slides.pdf)
+- [Slides]()
 
-- [Report](https://github.com/jsalbert/music-genre-classification/blob/master/Music_genre_recognition.pdf)
+- [Report]()
 
 ## structure
+In order to use the .ipynb file we need to download the *Data CNN* folder and add it to the google collab folder.
+
 - code: 
 	- jupyter notebook: `CNN_for_Music_Genre_Classification_Test.ipynb`
+    - jupyter notebook: 
 - models: pre-trained models
-- blog: blog md and pdf
 
 ### Code 
 In this repository we provide the scripts to fine-tune the pre-trained model and a quick music genre prediction algorithm using our own weights. 
 
 Currently the genres supported are the [GTZAN dataset](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwi0w9v6ndv7AhW2RzABHV9IBWUQFnoECBMQAQ&url=https%3A%2F%2Fwww.kaggle.com%2Fdatasets%2Fandradaolteanu%2Fgtzan-dataset-music-genre-classification&usg=AOvVaw3TTtu7nUZPCc-fNioZPjzz) tags:
-
 
 - blues
 - Clasic
@@ -32,3 +33,4 @@ Currently the genres supported are the [GTZAN dataset](https://www.google.com/ur
 - Pop
 - reggae
 - Rock
+
