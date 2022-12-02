@@ -11,7 +11,7 @@ Different types of machine learning algorithms and solutions are capable of solv
 - [Report]()
 
 ## structure
-In order to use the .ipynb file we need to download the *Data CNN* folder and add it to the google collab folder.
+In order to use the .ipynb file we need to download the *Data CNN* folder and decompress the data_10 file and add the whole folder into the google collab folder.
 
 - code: 
 	- jupyter notebook: `CNN_for_Music_Genre_Classification_Test.ipynb`
