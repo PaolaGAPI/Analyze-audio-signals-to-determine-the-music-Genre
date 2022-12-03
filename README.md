@@ -27,7 +27,7 @@ Run `GenreFeatureData.py` file if you want to reload the database or test the ac
 
 ### CNN
 
-In order to use the .ipynb file we need to download the *Data CNN* and *Data* folder and put it in the google collab folder. The *Data* file is big so it'll work better if you upload it in your drive and used from there in the google collab, changing the "DATASET_PATH = "/content/Data/genres_original" rute" for your drive rute and uncomment # save_mfcc(DATASET_PATH, JSON_PATH, num_segments=10) line of the code.  This collab will take a lot of minutes, around 30, but it will give the best results.
+In order to use the .ipynb file we need to download the *Data CNN* and *Data* folder and put it in the google collab folder. The *Data* file is big so it'll work better if you upload it in your drive and used from there in the google collab, changing the "DATASET_PATH = "/content/Data/genres_original" rute" for your drive rute and uncomment # save_mfcc(DATASET_PATH, JSON_PATH, num_segments=10) line of the code. Then in the "DATA_PATH = "/content/Data CNN/data_10.json"" you put the rut of the json file that is already created in you google collab. And that's it. This collab will take a lot of minutes, around 30, but it will give the best results.
 
 - code: 
 	- jupyter notebook: `CNN_for_Music_Genre_Classification_Test.ipynb`
