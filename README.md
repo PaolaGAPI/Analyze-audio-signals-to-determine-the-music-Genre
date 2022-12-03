@@ -6,7 +6,7 @@ Different types of machine learning algorithms and solutions are capable of solv
 
 ## Slides and Report 
 
-- [Slides]()
+- [Slides](https://github.com/PaolaGAPI/Analyze-audio-signals-to-determine-the-music-Genre/blob/main/Music%20classifier%20by%20genres%20using%20CNN%20and%20KNN%20models%20Slides.pdf)
 
 - [Report]()
 
