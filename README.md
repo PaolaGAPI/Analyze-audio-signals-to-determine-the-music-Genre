@@ -10,6 +10,8 @@ Different types of machine learning algorithms and solutions are capable of solv
 
 - [Report]()
 
+- [Video](https://www.youtube.com/watch?v=V0mP8Ccc2IQ)
+
 ## structure
 In order to use the .ipynb file we need to download the *Data CNN* and *Data* folder and put it in the google collab folder. The *Data* file is big so it'll work better if you upload it in your drive and used from there in the google collab, changing the "DATASET_PATH = "/content/Data/genres_original" rute" for your drive rute and uncomment # save_mfcc(DATASET_PATH, JSON_PATH, num_segments=10) line of the code.  This collab will take a lot of minutes, around 30, but it will give the best results.
 
